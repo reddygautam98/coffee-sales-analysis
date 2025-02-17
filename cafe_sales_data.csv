@@ -1,0 +1,301 @@
+Transaction ID,Date Time,Location,Category,Product,Quantity,Unit Price,Total Price
+T1000,2024-01-19 16:21:00,Suburb A,Pastries,Muffin,3,6.59,19.77
+T1001,2024-02-07 07:53:00,Downtown,Snacks,Fruit Cup,2,3.89,7.78
+T1002,2024-02-27 08:59:00,Uptown,Coffee,Espresso,2,6.61,13.22
+T1003,2024-01-12 10:49:00,Downtown,Coffee,Espresso,2,4.87,9.74
+T1004,2024-01-05 14:18:00,Mall Kiosk,Sandwiches,Chicken Panini,3,5.81,17.43
+T1005,2024-01-01 18:37:00,Suburb A,Sandwiches,Chicken Panini,5,5.24,26.2
+T1006,2024-01-19 20:06:00,Uptown,Sandwiches,Chicken Panini,1,6.89,6.89
+T1007,2024-02-14 08:49:00,Mall Kiosk,Pastries,Donut,4,6.63,26.52
+T1008,2024-02-25 16:05:00,Suburb B,Coffee,Espresso,3,8.24,24.72
+T1009,2024-01-10 18:16:00,Uptown,Snacks,Granola Bar,1,3.81,3.81
+T1010,2024-01-15 07:48:00,Mall Kiosk,Sandwiches,Chicken Panini,1,6.17,6.17
+T1011,2024-02-04 08:40:00,Uptown,Coffee,Cappuccino,5,6.01,30.05
+T1012,2024-01-16 20:05:00,Suburb B,Snacks,Chips,4,2.91,11.64
+T1013,2024-01-21 12:31:00,Downtown,Cold Drinks,Iced Coffee,2,3.27,6.54
+T1014,2024-02-17 12:18:00,Mall Kiosk,Tea,Green Tea,5,7.56,37.8
+T1015,2024-01-12 11:14:00,Uptown,Pastries,Croissant,4,3.24,12.96
+T1016,2024-01-30 17:01:00,Downtown,Cold Drinks,Iced Tea,1,3.54,3.54
+T1017,2024-01-24 17:13:00,Mall Kiosk,Coffee,Mocha,4,7.94,31.76
+T1018,2024-01-31 14:54:00,Downtown,Cold Drinks,Iced Tea,1,7.37,7.37
+T1019,2024-01-10 18:50:00,Downtown,Cold Drinks,Iced Coffee,4,8.34,33.36
+T1020,2024-02-19 14:57:00,Suburb A,Snacks,Granola Bar,4,5.82,23.28
+T1021,2024-01-06 12:27:00,Suburb A,Cold Drinks,Iced Tea,3,4.53,13.59
+T1022,2024-02-16 06:36:00,Airport,Sandwiches,Chicken Panini,3,4.45,13.35
+T1023,2024-01-11 10:05:00,Suburb A,Snacks,Fruit Cup,1,7.29,7.29
+T1024,2024-02-04 16:53:00,Suburb A,Cold Drinks,Iced Coffee,3,8.42,25.26
+T1025,2024-02-28 13:30:00,Downtown,Sandwiches,Veggie Wrap,5,5.24,26.2
+T1026,2024-01-06 19:54:00,Downtown,Cold Drinks,Iced Tea,4,4.53,18.12
+T1027,2024-01-26 19:17:00,Suburb A,Cold Drinks,Smoothie,4,7.6,30.4
+T1028,2024-01-12 09:20:00,Mall Kiosk,Coffee,Espresso,3,4.17,12.51
+T1029,2024-02-20 16:34:00,Suburb A,Tea,Green Tea,3,4.04,12.12
+T1030,2024-01-28 20:01:00,Suburb A,Snacks,Granola Bar,5,3.66,18.3
+T1031,2024-02-01 19:48:00,Suburb A,Sandwiches,Ham & Cheese,5,8.15,40.75
+T1032,2024-01-02 19:21:00,Suburb B,Coffee,Espresso,1,2.66,2.66
+T1033,2024-01-17 06:09:00,Airport,Snacks,Chips,4,3.86,15.44
+T1034,2024-02-01 11:35:00,Downtown,Pastries,Donut,2,3.19,6.38
+T1035,2024-02-05 19:43:00,Downtown,Sandwiches,Chicken Panini,2,6.73,13.46
+T1036,2024-02-01 13:52:00,Downtown,Tea,Green Tea,5,4.51,22.55
+T1037,2024-01-23 08:22:00,Suburb A,Sandwiches,Chicken Panini,5,6.88,34.4
+T1038,2024-02-02 13:47:00,Airport,Cold Drinks,Iced Coffee,3,6.99,20.97
+T1039,2024-02-29 12:52:00,Downtown,Tea,Green Tea,4,3.67,14.68
+T1040,2024-02-13 09:00:00,Suburb B,Tea,Black Tea,1,7.03,7.03
+T1041,2024-02-18 11:44:00,Downtown,Snacks,Fruit Cup,4,5.71,22.84
+T1042,2024-02-09 13:26:00,Suburb B,Coffee,Cappuccino,1,3.15,3.15
+T1043,2024-02-23 10:17:00,Downtown,Snacks,Chips,3,2.99,8.97
+T1044,2024-02-29 16:10:00,Mall Kiosk,Cold Drinks,Milkshake,1,7.86,7.86
+T1045,2024-01-13 16:49:00,Mall Kiosk,Cold Drinks,Smoothie,2,8.23,16.46
+T1046,2024-02-09 12:37:00,Suburb A,Coffee,Cappuccino,1,4.07,4.07
+T1047,2024-01-18 20:35:00,Downtown,Cold Drinks,Milkshake,3,7.26,21.78
+T1048,2024-02-20 10:48:00,Downtown,Pastries,Donut,5,3.94,19.7
+T1049,2024-02-08 06:33:00,Suburb A,Snacks,Granola Bar,4,7.33,29.32
+T1050,2024-01-21 09:25:00,Airport,Pastries,Croissant,4,4.12,16.48
+T1051,2024-02-15 14:39:00,Uptown,Pastries,Bagel,1,6.12,6.12
+T1052,2024-01-07 06:13:00,Suburb A,Coffee,Cappuccino,4,2.76,11.04
+T1053,2024-01-23 17:25:00,Mall Kiosk,Pastries,Bagel,3,6.58,19.74
+T1054,2024-01-04 06:20:00,Uptown,Coffee,Cappuccino,2,3.98,7.96
+T1055,2024-01-04 15:09:00,Suburb A,Sandwiches,Chicken Panini,5,8.45,42.25
+T1056,2024-01-30 17:28:00,Suburb B,Coffee,Americano,1,2.66,2.66
+T1057,2024-02-20 19:26:00,Airport,Coffee,Americano,1,4.61,4.61
+T1058,2024-02-18 14:50:00,Mall Kiosk,Pastries,Bagel,5,5.01,25.05
+T1059,2024-02-13 08:24:00,Uptown,Pastries,Donut,4,7.11,28.44
+T1060,2024-02-23 17:19:00,Suburb A,Coffee,Mocha,5,6.92,34.6
+T1061,2024-02-02 07:13:00,Suburb A,Coffee,Cappuccino,4,2.79,11.16
+T1062,2024-01-08 15:42:00,Downtown,Sandwiches,Veggie Wrap,5,2.84,14.2
+T1063,2024-02-22 18:13:00,Mall Kiosk,Sandwiches,Turkey Club,4,5.7,22.8
+T1064,2024-01-21 13:49:00,Mall Kiosk,Cold Drinks,Smoothie,1,8.38,8.38
+T1065,2024-01-14 17:54:00,Airport,Pastries,Bagel,2,4.73,9.46
+T1066,2024-02-28 14:52:00,Downtown,Coffee,Mocha,2,6.5,13.0
+T1067,2024-01-12 16:14:00,Suburb B,Sandwiches,Chicken Panini,5,8.47,42.35
+T1068,2024-01-17 16:52:00,Mall Kiosk,Cold Drinks,Iced Tea,4,4.8,19.2
+T1069,2024-01-24 13:13:00,Mall Kiosk,Cold Drinks,Milkshake,3,6.4,19.2
+T1070,2024-01-28 06:13:00,Airport,Cold Drinks,Milkshake,2,3.82,7.64
+T1071,2024-02-08 20:37:00,Suburb A,Cold Drinks,Milkshake,2,5.83,11.66
+T1072,2024-01-11 17:34:00,Uptown,Snacks,Granola Bar,2,4.0,8.0
+T1073,2024-02-16 20:11:00,Suburb A,Cold Drinks,Milkshake,1,7.16,7.16
+T1074,2024-01-14 14:15:00,Uptown,Coffee,Espresso,5,6.39,31.95
+T1075,2024-01-27 07:42:00,Suburb A,Coffee,Latte,1,3.58,3.58
+T1076,2024-02-01 08:37:00,Mall Kiosk,Sandwiches,Chicken Panini,4,3.74,14.96
+T1077,2024-01-06 10:44:00,Mall Kiosk,Tea,Green Tea,2,2.63,5.26
+T1078,2024-02-06 19:28:00,Downtown,Sandwiches,Turkey Club,5,4.24,21.2
+T1079,2024-01-18 09:43:00,Downtown,Coffee,Cappuccino,5,4.57,22.85
+T1080,2024-02-23 13:22:00,Mall Kiosk,Pastries,Bagel,4,6.76,27.04
+T1081,2024-01-29 15:46:00,Suburb B,Pastries,Croissant,5,3.92,19.6
+T1082,2024-01-14 12:45:00,Suburb B,Pastries,Donut,3,6.44,19.32
+T1083,2024-02-24 17:28:00,Suburb A,Cold Drinks,Smoothie,2,5.63,11.26
+T1084,2024-01-22 16:58:00,Mall Kiosk,Snacks,Granola Bar,2,4.3,8.6
+T1085,2024-01-23 13:47:00,Suburb A,Cold Drinks,Iced Tea,5,7.63,38.15
+T1086,2024-01-09 14:31:00,Airport,Tea,Herbal Tea,4,7.38,29.52
+T1087,2024-02-05 10:43:00,Mall Kiosk,Pastries,Bagel,5,5.74,28.7
+T1088,2024-01-29 17:00:00,Suburb A,Tea,Black Tea,1,8.21,8.21
+T1089,2024-02-19 06:43:00,Suburb A,Coffee,Cappuccino,2,3.3,6.6
+T1090,2024-02-27 08:12:00,Suburb A,Tea,Black Tea,5,8.37,41.85
+T1091,2024-02-03 07:03:00,Suburb A,Cold Drinks,Iced Coffee,4,6.11,24.44
+T1092,2024-01-23 16:11:00,Uptown,Sandwiches,Turkey Club,2,5.68,11.36
+T1093,2024-01-10 18:13:00,Airport,Sandwiches,Ham & Cheese,4,6.52,26.08
+T1094,2024-01-15 13:14:00,Suburb B,Cold Drinks,Milkshake,5,5.46,27.3
+T1095,2024-01-29 11:54:00,Airport,Tea,Black Tea,2,2.69,5.38
+T1096,2024-01-26 18:40:00,Suburb A,Pastries,Bagel,2,3.43,6.86
+T1097,2024-02-22 16:27:00,Suburb A,Cold Drinks,Iced Coffee,2,2.89,5.78
+T1098,2024-01-09 12:46:00,Suburb B,Coffee,Latte,3,6.37,19.11
+T1099,2024-02-10 17:30:00,Airport,Snacks,Fruit Cup,2,6.19,12.38
+T1100,2024-02-17 16:04:00,Suburb A,Snacks,Fruit Cup,2,7.87,15.74
+T1101,2024-01-13 06:40:00,Mall Kiosk,Cold Drinks,Iced Coffee,3,5.95,17.85
+T1102,2024-01-17 13:27:00,Suburb A,Tea,Black Tea,2,5.48,10.96
+T1103,2024-01-06 08:28:00,Suburb A,Sandwiches,Ham & Cheese,3,7.08,21.24
+T1104,2024-02-04 20:54:00,Suburb A,Pastries,Muffin,5,4.22,21.1
+T1105,2024-02-18 07:51:00,Uptown,Tea,Chai Latte,1,2.76,2.76
+T1106,2024-01-30 16:50:00,Suburb B,Sandwiches,Chicken Panini,1,7.59,7.59
+T1107,2024-02-15 17:24:00,Suburb A,Pastries,Croissant,1,8.12,8.12
+T1108,2024-02-03 16:21:00,Suburb A,Snacks,Granola Bar,5,6.15,30.75
+T1109,2024-02-02 08:29:00,Suburb B,Sandwiches,Ham & Cheese,4,5.04,20.16
+T1110,2024-02-18 09:36:00,Mall Kiosk,Cold Drinks,Iced Coffee,5,6.13,30.65
+T1111,2024-01-04 11:33:00,Downtown,Pastries,Muffin,5,4.39,21.95
+T1112,2024-02-06 18:50:00,Downtown,Coffee,Americano,2,4.83,9.66
+T1113,2024-02-28 06:41:00,Mall Kiosk,Sandwiches,Chicken Panini,2,6.65,13.3
+T1114,2024-02-10 11:17:00,Mall Kiosk,Pastries,Croissant,2,5.5,11.0
+T1115,2024-02-19 08:43:00,Suburb B,Cold Drinks,Smoothie,2,6.47,12.94
+T1116,2024-01-10 19:55:00,Uptown,Pastries,Bagel,1,4.34,4.34
+T1117,2024-02-29 09:37:00,Mall Kiosk,Pastries,Croissant,5,3.65,18.25
+T1118,2024-01-09 14:19:00,Downtown,Pastries,Muffin,5,7.48,37.4
+T1119,2024-01-14 19:17:00,Suburb A,Tea,Black Tea,1,2.69,2.69
+T1120,2024-01-16 09:17:00,Suburb B,Snacks,Yogurt Parfait,4,6.82,27.28
+T1121,2024-02-15 16:24:00,Downtown,Pastries,Croissant,4,3.07,12.28
+T1122,2024-01-12 14:17:00,Downtown,Tea,Black Tea,2,4.38,8.76
+T1123,2024-02-11 08:57:00,Suburb A,Snacks,Fruit Cup,1,7.59,7.59
+T1124,2024-02-13 12:17:00,Airport,Sandwiches,Veggie Wrap,2,4.9,9.8
+T1125,2024-01-05 06:39:00,Suburb A,Pastries,Croissant,3,6.96,20.88
+T1126,2024-01-12 06:39:00,Mall Kiosk,Sandwiches,Veggie Wrap,4,4.17,16.68
+T1127,2024-01-17 08:50:00,Uptown,Pastries,Bagel,3,3.65,10.95
+T1128,2024-01-16 06:47:00,Downtown,Snacks,Fruit Cup,4,7.68,30.72
+T1129,2024-02-27 20:27:00,Airport,Sandwiches,Chicken Panini,3,4.55,13.65
+T1130,2024-01-02 06:37:00,Suburb A,Snacks,Chips,2,2.91,5.82
+T1131,2024-01-19 09:17:00,Suburb A,Snacks,Chips,5,5.62,28.1
+T1132,2024-02-17 13:12:00,Airport,Coffee,Mocha,1,3.47,3.47
+T1133,2024-02-06 13:37:00,Mall Kiosk,Sandwiches,Ham & Cheese,1,4.68,4.68
+T1134,2024-01-04 13:36:00,Mall Kiosk,Coffee,Mocha,2,7.64,15.28
+T1135,2024-01-21 10:50:00,Downtown,Tea,Herbal Tea,1,6.58,6.58
+T1136,2024-02-09 20:06:00,Suburb B,Snacks,Yogurt Parfait,3,4.84,14.52
+T1137,2024-01-15 12:41:00,Suburb B,Sandwiches,Turkey Club,5,5.37,26.85
+T1138,2024-01-06 16:03:00,Suburb A,Tea,Black Tea,2,4.56,9.12
+T1139,2024-01-13 11:49:00,Mall Kiosk,Snacks,Granola Bar,2,4.34,8.68
+T1140,2024-01-24 12:41:00,Uptown,Coffee,Mocha,3,3.25,9.75
+T1141,2024-02-09 15:10:00,Downtown,Coffee,Americano,5,6.71,33.55
+T1142,2024-02-17 19:01:00,Airport,Coffee,Americano,3,5.67,17.01
+T1143,2024-01-29 07:47:00,Airport,Cold Drinks,Iced Tea,5,5.68,28.4
+T1144,2024-01-16 09:44:00,Airport,Pastries,Croissant,1,6.7,6.7
+T1145,2024-01-25 06:25:00,Downtown,Coffee,Cappuccino,5,4.77,23.85
+T1146,2024-01-06 20:02:00,Uptown,Cold Drinks,Iced Tea,2,5.21,10.42
+T1147,2024-01-01 11:24:00,Suburb A,Snacks,Yogurt Parfait,3,4.4,13.2
+T1148,2024-02-08 19:52:00,Mall Kiosk,Tea,Chai Latte,2,4.51,9.02
+T1149,2024-02-22 12:42:00,Mall Kiosk,Coffee,Espresso,2,3.32,6.64
+T1150,2024-02-15 19:21:00,Suburb B,Snacks,Granola Bar,3,3.69,11.07
+T1151,2024-02-23 13:40:00,Downtown,Tea,Chai Latte,5,7.07,35.35
+T1152,2024-01-04 20:25:00,Suburb B,Tea,Black Tea,2,3.64,7.28
+T1153,2024-01-25 20:28:00,Mall Kiosk,Cold Drinks,Iced Tea,4,2.62,10.48
+T1154,2024-02-29 17:21:00,Suburb B,Sandwiches,Veggie Wrap,5,4.74,23.7
+T1155,2024-02-29 14:39:00,Suburb B,Tea,Chai Latte,2,7.28,14.56
+T1156,2024-01-05 07:57:00,Mall Kiosk,Tea,Black Tea,3,7.58,22.74
+T1157,2024-02-22 11:29:00,Suburb A,Coffee,Espresso,2,5.64,11.28
+T1158,2024-02-03 11:17:00,Airport,Pastries,Donut,2,3.44,6.88
+T1159,2024-01-26 06:46:00,Suburb B,Tea,Green Tea,1,7.81,7.81
+T1160,2024-02-08 10:06:00,Suburb A,Cold Drinks,Iced Tea,4,6.42,25.68
+T1161,2024-02-20 11:53:00,Downtown,Tea,Herbal Tea,4,3.07,12.28
+T1162,2024-02-08 18:03:00,Uptown,Coffee,Latte,3,8.42,25.26
+T1163,2024-02-16 11:00:00,Airport,Sandwiches,Ham & Cheese,4,3.09,12.36
+T1164,2024-01-09 19:12:00,Downtown,Coffee,Mocha,1,3.32,3.32
+T1165,2024-01-03 06:04:00,Suburb A,Coffee,Espresso,2,7.89,15.78
+T1166,2024-02-26 14:38:00,Uptown,Tea,Herbal Tea,5,3.23,16.15
+T1167,2024-02-14 13:31:00,Suburb B,Sandwiches,Ham & Cheese,2,5.53,11.06
+T1168,2024-01-09 08:49:00,Suburb B,Coffee,Espresso,4,7.13,28.52
+T1169,2024-01-08 10:10:00,Downtown,Pastries,Bagel,5,7.11,35.55
+T1170,2024-01-06 12:13:00,Suburb A,Sandwiches,Veggie Wrap,3,5.22,15.66
+T1171,2024-01-31 09:24:00,Suburb A,Tea,Herbal Tea,5,7.97,39.85
+T1172,2024-01-01 14:44:00,Uptown,Sandwiches,Chicken Panini,3,7.55,22.65
+T1173,2024-02-12 07:33:00,Downtown,Tea,Herbal Tea,3,7.32,21.96
+T1174,2024-02-03 09:30:00,Uptown,Snacks,Yogurt Parfait,4,3.32,13.28
+T1175,2024-02-28 14:44:00,Downtown,Pastries,Muffin,4,3.81,15.24
+T1176,2024-02-07 11:22:00,Mall Kiosk,Sandwiches,Chicken Panini,1,5.43,5.43
+T1177,2024-02-26 16:12:00,Suburb B,Sandwiches,Chicken Panini,5,2.67,13.35
+T1178,2024-02-09 06:27:00,Downtown,Cold Drinks,Smoothie,1,7.42,7.42
+T1179,2024-02-10 09:30:00,Airport,Coffee,Cappuccino,4,7.93,31.72
+T1180,2024-01-25 13:59:00,Suburb B,Sandwiches,Veggie Wrap,4,7.35,29.4
+T1181,2024-01-15 17:29:00,Downtown,Tea,Black Tea,2,5.04,10.08
+T1182,2024-02-20 12:30:00,Downtown,Sandwiches,Veggie Wrap,3,6.47,19.41
+T1183,2024-02-24 18:41:00,Mall Kiosk,Tea,Herbal Tea,3,6.37,19.11
+T1184,2024-02-06 14:16:00,Suburb B,Sandwiches,Ham & Cheese,4,5.01,20.04
+T1185,2024-01-25 19:51:00,Mall Kiosk,Tea,Herbal Tea,4,8.49,33.96
+T1186,2024-02-01 13:21:00,Airport,Sandwiches,Ham & Cheese,4,7.79,31.16
+T1187,2024-02-22 08:45:00,Mall Kiosk,Coffee,Espresso,2,3.9,7.8
+T1188,2024-01-27 19:47:00,Suburb A,Tea,Black Tea,4,3.77,15.08
+T1189,2024-03-01 10:55:00,Airport,Sandwiches,Turkey Club,4,8.34,33.36
+T1190,2024-01-06 16:55:00,Airport,Sandwiches,Veggie Wrap,3,7.41,22.23
+T1191,2024-02-13 11:39:00,Suburb B,Tea,Herbal Tea,4,4.05,16.2
+T1192,2024-01-29 12:36:00,Airport,Sandwiches,Chicken Panini,1,4.64,4.64
+T1193,2024-01-05 18:07:00,Suburb B,Coffee,Latte,4,4.9,19.6
+T1194,2024-01-22 13:36:00,Suburb A,Pastries,Donut,5,7.07,35.35
+T1195,2024-02-11 14:22:00,Mall Kiosk,Sandwiches,Chicken Panini,5,3.9,19.5
+T1196,2024-02-21 20:01:00,Suburb B,Snacks,Chips,4,3.06,12.24
+T1197,2024-02-23 12:02:00,Suburb A,Coffee,Espresso,4,8.19,32.76
+T1198,2024-01-04 10:01:00,Downtown,Snacks,Fruit Cup,3,8.34,25.02
+T1199,2024-01-05 16:33:00,Airport,Pastries,Bagel,4,6.59,26.36
+T1200,2024-01-25 20:27:00,Suburb B,Tea,Chai Latte,5,3.66,18.3
+T1201,2024-02-04 19:23:00,Downtown,Pastries,Croissant,4,8.21,32.84
+T1202,2024-01-10 13:33:00,Airport,Pastries,Croissant,5,4.33,21.65
+T1203,2024-01-22 09:29:00,Suburb A,Snacks,Granola Bar,2,6.47,12.94
+T1204,2024-01-15 12:42:00,Suburb B,Cold Drinks,Iced Tea,4,2.91,11.64
+T1205,2024-02-17 10:38:00,Mall Kiosk,Tea,Chai Latte,4,8.28,33.12
+T1206,2024-01-09 09:16:00,Downtown,Pastries,Bagel,1,4.1,4.1
+T1207,2024-01-07 11:33:00,Uptown,Pastries,Croissant,4,3.16,12.64
+T1208,2024-02-12 20:47:00,Mall Kiosk,Tea,Black Tea,2,5.86,11.72
+T1209,2024-01-30 07:20:00,Downtown,Snacks,Granola Bar,5,2.83,14.15
+T1210,2024-01-06 08:08:00,Suburb B,Cold Drinks,Iced Tea,3,3.24,9.72
+T1211,2024-01-10 08:44:00,Downtown,Snacks,Fruit Cup,3,2.87,8.61
+T1212,2024-02-16 11:03:00,Suburb A,Coffee,Espresso,4,6.26,25.04
+T1213,2024-02-05 17:34:00,Uptown,Pastries,Muffin,5,6.46,32.3
+T1214,2024-01-06 19:53:00,Mall Kiosk,Snacks,Chips,5,5.29,26.45
+T1215,2024-01-25 12:09:00,Downtown,Snacks,Granola Bar,3,6.02,18.06
+T1216,2024-01-31 10:47:00,Airport,Snacks,Chips,5,3.17,15.85
+T1217,2024-02-03 11:28:00,Suburb B,Cold Drinks,Iced Coffee,4,3.1,12.4
+T1218,2024-02-14 10:51:00,Suburb B,Cold Drinks,Milkshake,4,4.97,19.88
+T1219,2024-02-10 14:52:00,Suburb A,Pastries,Muffin,2,6.75,13.5
+T1220,2024-02-22 18:30:00,Uptown,Coffee,Americano,4,7.01,28.04
+T1221,2024-02-12 18:13:00,Suburb B,Coffee,Americano,5,4.06,20.3
+T1222,2024-02-24 14:21:00,Suburb B,Coffee,Espresso,3,8.25,24.75
+T1223,2024-02-17 09:04:00,Airport,Cold Drinks,Iced Coffee,4,6.11,24.44
+T1224,2024-02-14 09:31:00,Mall Kiosk,Snacks,Yogurt Parfait,2,3.54,7.08
+T1225,2024-02-12 19:49:00,Mall Kiosk,Snacks,Fruit Cup,1,3.1,3.1
+T1226,2024-02-07 18:31:00,Downtown,Sandwiches,Chicken Panini,1,7.9,7.9
+T1227,2024-02-22 15:05:00,Uptown,Coffee,Mocha,2,7.72,15.44
+T1228,2024-01-18 14:50:00,Suburb B,Tea,Herbal Tea,4,4.77,19.08
+T1229,2024-02-12 11:45:00,Uptown,Cold Drinks,Smoothie,5,5.22,26.1
+T1230,2024-01-14 20:54:00,Uptown,Tea,Herbal Tea,4,3.51,14.04
+T1231,2024-01-15 19:08:00,Airport,Coffee,Americano,4,4.45,17.8
+T1232,2024-01-13 14:16:00,Downtown,Sandwiches,Veggie Wrap,4,4.65,18.6
+T1233,2024-01-29 18:10:00,Mall Kiosk,Snacks,Fruit Cup,3,5.16,15.48
+T1234,2024-01-15 17:24:00,Airport,Sandwiches,Turkey Club,1,3.85,3.85
+T1235,2024-03-01 17:10:00,Suburb A,Sandwiches,Chicken Panini,2,4.37,8.74
+T1236,2024-02-29 07:36:00,Downtown,Coffee,Americano,3,6.22,18.66
+T1237,2024-02-06 15:28:00,Airport,Cold Drinks,Iced Coffee,1,8.42,8.42
+T1238,2024-01-21 09:14:00,Airport,Sandwiches,Ham & Cheese,5,5.49,27.45
+T1239,2024-02-21 11:33:00,Airport,Sandwiches,Veggie Wrap,4,6.51,26.04
+T1240,2024-01-27 19:05:00,Mall Kiosk,Tea,Herbal Tea,4,3.0,12.0
+T1241,2024-01-26 17:50:00,Airport,Tea,Green Tea,3,5.49,16.47
+T1242,2024-02-11 20:27:00,Uptown,Coffee,Latte,1,6.92,6.92
+T1243,2024-01-15 15:58:00,Mall Kiosk,Cold Drinks,Smoothie,3,6.06,18.18
+T1244,2024-02-27 15:20:00,Airport,Sandwiches,Chicken Panini,4,2.89,11.56
+T1245,2024-01-02 11:47:00,Airport,Coffee,Americano,4,7.54,30.16
+T1246,2024-01-13 19:46:00,Suburb A,Tea,Black Tea,3,5.34,16.02
+T1247,2024-01-13 06:46:00,Downtown,Sandwiches,Veggie Wrap,4,7.71,30.84
+T1248,2024-02-22 20:54:00,Suburb B,Coffee,Americano,5,6.72,33.6
+T1249,2024-01-14 17:54:00,Airport,Snacks,Fruit Cup,2,6.6,13.2
+T1250,2024-02-07 16:12:00,Uptown,Coffee,Mocha,1,8.22,8.22
+T1251,2024-02-22 07:04:00,Mall Kiosk,Snacks,Yogurt Parfait,3,6.98,20.94
+T1252,2024-02-10 15:19:00,Downtown,Coffee,Mocha,4,7.73,30.92
+T1253,2024-02-11 19:57:00,Mall Kiosk,Sandwiches,Ham & Cheese,4,6.83,27.32
+T1254,2024-02-22 14:56:00,Downtown,Pastries,Bagel,3,4.88,14.64
+T1255,2024-01-04 12:20:00,Suburb B,Sandwiches,Ham & Cheese,3,7.87,23.61
+T1256,2024-01-16 19:44:00,Mall Kiosk,Snacks,Granola Bar,1,4.39,4.39
+T1257,2024-02-23 11:02:00,Airport,Coffee,Cappuccino,4,2.87,11.48
+T1258,2024-01-09 17:49:00,Downtown,Tea,Green Tea,4,7.69,30.76
+T1259,2024-01-18 08:11:00,Downtown,Snacks,Yogurt Parfait,5,2.73,13.65
+T1260,2024-01-25 08:26:00,Suburb B,Cold Drinks,Iced Coffee,3,2.76,8.28
+T1261,2024-01-14 14:31:00,Suburb B,Sandwiches,Turkey Club,1,5.97,5.97
+T1262,2024-02-05 13:08:00,Downtown,Coffee,Americano,4,8.28,33.12
+T1263,2024-02-23 11:44:00,Suburb B,Pastries,Croissant,2,5.56,11.12
+T1264,2024-01-25 14:10:00,Suburb A,Cold Drinks,Iced Coffee,2,4.07,8.14
+T1265,2024-02-22 19:16:00,Mall Kiosk,Tea,Black Tea,2,5.59,11.18
+T1266,2024-01-10 20:36:00,Downtown,Tea,Black Tea,4,7.45,29.8
+T1267,2024-02-26 14:00:00,Downtown,Pastries,Croissant,5,6.21,31.05
+T1268,2024-02-20 15:14:00,Downtown,Snacks,Chips,5,4.85,24.25
+T1269,2024-01-07 16:40:00,Uptown,Sandwiches,Chicken Panini,5,5.12,25.6
+T1270,2024-01-08 17:08:00,Airport,Coffee,Espresso,4,8.15,32.6
+T1271,2024-02-26 16:41:00,Suburb B,Coffee,Mocha,5,5.08,25.4
+T1272,2024-02-06 14:50:00,Suburb A,Coffee,Mocha,4,8.43,33.72
+T1273,2024-02-21 10:16:00,Suburb B,Sandwiches,Ham & Cheese,3,8.09,24.27
+T1274,2024-02-19 06:00:00,Suburb B,Snacks,Granola Bar,1,2.64,2.64
+T1275,2024-02-14 11:59:00,Suburb B,Sandwiches,Turkey Club,4,7.96,31.84
+T1276,2024-02-27 16:53:00,Mall Kiosk,Pastries,Donut,2,7.53,15.06
+T1277,2024-01-27 18:07:00,Suburb B,Sandwiches,Chicken Panini,5,6.96,34.8
+T1278,2024-02-19 18:04:00,Suburb B,Sandwiches,Ham & Cheese,4,3.76,15.04
+T1279,2024-01-08 20:01:00,Downtown,Tea,Herbal Tea,4,5.89,23.56
+T1280,2024-02-21 14:36:00,Airport,Sandwiches,Turkey Club,1,6.99,6.99
+T1281,2024-02-08 11:05:00,Suburb A,Coffee,Mocha,2,3.7,7.4
+T1282,2024-02-09 12:15:00,Mall Kiosk,Snacks,Granola Bar,3,6.99,20.97
+T1283,2024-02-08 08:11:00,Suburb A,Snacks,Chips,4,7.72,30.88
+T1284,2024-02-18 13:12:00,Downtown,Coffee,Americano,4,4.91,19.64
+T1285,2024-02-25 11:02:00,Uptown,Snacks,Yogurt Parfait,1,3.76,3.76
+T1286,2024-02-21 07:50:00,Airport,Sandwiches,Ham & Cheese,4,2.99,11.96
+T1287,2024-02-28 14:31:00,Suburb A,Pastries,Bagel,3,4.46,13.38
+T1288,2024-01-24 09:47:00,Suburb A,Pastries,Donut,4,3.56,14.24
+T1289,2024-01-03 17:41:00,Suburb A,Coffee,Espresso,1,7.77,7.77
+T1290,2024-02-02 14:16:00,Suburb A,Sandwiches,Veggie Wrap,2,6.37,12.74
+T1291,2024-02-28 06:46:00,Uptown,Tea,Herbal Tea,1,4.0,4.0
+T1292,2024-02-04 14:02:00,Suburb B,Sandwiches,Chicken Panini,2,8.46,16.92
+T1293,2024-02-09 11:31:00,Uptown,Pastries,Muffin,1,4.35,4.35
+T1294,2024-02-08 07:50:00,Airport,Cold Drinks,Smoothie,5,7.33,36.65
+T1295,2024-02-10 15:28:00,Downtown,Tea,Herbal Tea,1,5.2,5.2
+T1296,2024-02-17 08:41:00,Suburb B,Cold Drinks,Iced Coffee,4,4.03,16.12
+T1297,2024-01-14 12:40:00,Suburb A,Tea,Black Tea,5,5.78,28.9
+T1298,2024-01-11 10:56:00,Suburb B,Pastries,Donut,5,2.61,13.05
+T1299,2024-01-31 17:49:00,Downtown,Tea,Green Tea,4,5.49,21.96

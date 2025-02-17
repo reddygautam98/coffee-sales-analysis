@@ -1,0 +1,12 @@
+coffee-sales-analysis
+├── public
+│   └── index.html
+├── src
+│   ├── components
+│   │   └── CafeDashboard.tsx
+│   ├── App.tsx
+│   ├── index.tsx
+│   └── styles.css
+├── package.json
+├── tsconfig.json
+└── README.md
