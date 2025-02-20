@@ -84,7 +84,8 @@ To run this project locally, follow these steps:
 ## 📊 Visualizations -
 
 The dashboard includes several visualizations to help understand the data better:
-- **React Dashboard**
+- **React Dashboard** - 
+
 ![Screenshot 2025-02-17 001732](https://github.com/user-attachments/assets/59c9dcb5-ca4c-4769-91c8-7088ca958881)
 ![Screenshot 2025-02-17 001749](https://github.com/user-attachments/assets/1f34f66a-001c-4723-bb2e-c9c7c7ca3279)
 ![Screenshot 2025-02-17 001807](https://github.com/user-attachments/assets/2ae97595-79c1-4d95-a90f-a1a0a0f76963)
@@ -93,6 +94,7 @@ The dashboard includes several visualizations to help understand the data better
 ![Screenshot 2025-02-17 001851](https://github.com/user-attachments/assets/d489f2e9-9e25-4119-a7a2-819390b401c0)
 
 - **Power Bi Dashboard** -
+
 ![Screenshot 2025-02-20 062235](https://github.com/user-attachments/assets/18117199-e3a0-4181-acc8-6a5d04621f19)
 
 ## 🏆 Business Problem Solved
