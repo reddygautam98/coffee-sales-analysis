@@ -41,6 +41,12 @@ This project leverages a hybrid approach, utilizing both modern and traditional 
 - **Sales Forecasting**: Time series analysis and forecasting using statistical models.
 - **Customer Segmentation**: Clustering and segmentation analysis to identify customer groups.
 
+### Excel 📈
+
+- **Data Preparation**: Initial data cleaning and preparation using Excel.
+- **Pivot Tables**: Creating pivot tables for summarizing and analyzing data.
+- **Formula-Driven Analysis**: Utilizing Excel formulas for quick calculations and insights.
+
 ## 🚀 Getting Started
 
 To run this project locally, follow these steps:
@@ -79,9 +85,13 @@ To run this project locally, follow these steps:
 
 The dashboard includes several visualizations to help understand the data better:
 - **Sales Over Time**: Line charts showing sales trends over different periods.
+  ![Sales Over Time](images/sales_over_time.png)
 - **Customer Segmentation**: Pie charts and bar charts showing customer segments and their contributions.
+  ![Customer Segmentation](images/customer_segmentation.png)
 - **Product Performance**: Bar charts showing the performance of different products and categories.
+  ![Product Performance](images/product_performance.png)
 - **Sales Forecasting**: Line charts showing actual vs. forecasted sales.
+  ![Sales Forecasting](images/sales_forecasting.png)
 
 ## 🏆 Business Problem Solved
 
