@@ -81,17 +81,19 @@ To run this project locally, follow these steps:
 3. **Product Performance**: Evaluate the performance of different products and categories.
 4. **Forecasting**: Predict future sales trends using time series analysis.
 
-## 📊 Visualizations
+## 📊 Visualizations -
 
 The dashboard includes several visualizations to help understand the data better:
-- **Sales Over Time**: Line charts showing sales trends over different periods.
-  ![Sales Over Time](images/sales_over_time.png)
-- **Customer Segmentation**: Pie charts and bar charts showing customer segments and their contributions.
-  ![Customer Segmentation](images/customer_segmentation.png)
-- **Product Performance**: Bar charts showing the performance of different products and categories.
-  ![Product Performance](images/product_performance.png)
-- **Sales Forecasting**: Line charts showing actual vs. forecasted sales.
-  ![Sales Forecasting](images/sales_forecasting.png)
+- **React Dashboard**
+![Screenshot 2025-02-17 001732](https://github.com/user-attachments/assets/59c9dcb5-ca4c-4769-91c8-7088ca958881)
+![Screenshot 2025-02-17 001749](https://github.com/user-attachments/assets/1f34f66a-001c-4723-bb2e-c9c7c7ca3279)
+![Screenshot 2025-02-17 001807](https://github.com/user-attachments/assets/2ae97595-79c1-4d95-a90f-a1a0a0f76963)
+![Screenshot 2025-02-17 001823](https://github.com/user-attachments/assets/22baece9-b7bf-441f-8721-9eea14c838c9)
+![Screenshot 2025-02-17 001840](https://github.com/user-attachments/assets/95165a79-008a-4eee-8538-049c8d4f21b9)
+![Screenshot 2025-02-17 001851](https://github.com/user-attachments/assets/d489f2e9-9e25-4119-a7a2-819390b401c0)
+
+- **Power Bi Dashboard** -
+![Screenshot 2025-02-20 062235](https://github.com/user-attachments/assets/18117199-e3a0-4181-acc8-6a5d04621f19)
 
 ## 🏆 Business Problem Solved
 
